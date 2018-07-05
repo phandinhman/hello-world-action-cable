@@ -1,0 +1,7 @@
+{
+  "name": "hello-world-action-cable",
+  "private": true,
+  "dependencies": {
+    "yarn": "^1.7.0"
+  }
+}
